@@ -27,5 +27,9 @@ describe Tennis do
     it 'if both players have 40-40 the game is deuce' do
       expect(subject.score_deuce).to eq('Deuce!!')
     end
+
+    it 'player one wins if they score a point from deuce' do
+      expect(subject.adv_p1).to eq('Adv - Player one!')
+    end
   end
 end

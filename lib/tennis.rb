@@ -2,36 +2,16 @@
 
 # class document comment
 class Tennis
+  attr_reader :score, :score_one, :score_two,
+              :score_three, :score_four, :score_deuce, :adv_p1
+
   def initialize
-    @score = 'Love'
-    @score_one = 'Fifteen'
-    @score_two = 'Thirty'
-    @score_three = 'Fourty'
+    @score = 'Love-Love'
+    @score_one = 'Fifteen-Love'
+    @score_two = 'Thirty-Love'
+    @score_three = 'Fourty-Love'
     @score_four = 'Player One Wins!!'
     @score_deuce = 'Deuce!!'
-  end
-
-  def score
-    "#{@score}-Love"
-  end
-
-  def score_one
-    "#{@score_one}-Love"
-  end
-
-  def score_two
-    "#{@score_two}-Love"
-  end
-
-  def score_three
-    "#{@score_three}-Love"
-  end
-
-  def score_four
-    @score_four.to_s
-  end
-
-  def score_deuce
-    @score_deuce.to_s
+    @adv_p1 = 'Adv - Player one!'
   end
 end
