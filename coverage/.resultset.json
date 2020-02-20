@@ -1,7 +1,30 @@
 {
   "RSpec": {
     "coverage": {
+      "/Tennis-kata/spec/tennis_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Tennis-kata/lib/tennis.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
     },
-    "timestamp": 1582215788
+    "timestamp": 1582216800
   }
 }
