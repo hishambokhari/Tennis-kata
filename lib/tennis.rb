@@ -24,4 +24,8 @@ class Tennis
   def score_three
     "#{@score_three}-Love"
   end
+
+  def score_four
+    'Player One Wins!!'
+  end
 end
