@@ -1,5 +1,18 @@
 class Tennis
-  def score(input)
-   'Love-Love'
+
+  def initialize
+    @score = 'Love'
+    @score_one = 'Fifteen'
   end
+
+  def score_one
+    "#{@score_one}-Love"
+  end
+
+  def score
+      "#{@score}-Love"
+  end
+
+ 
+  
 end

@@ -11,19 +11,36 @@
           1,
           null,
           null,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
       "/Tennis-kata/lib/tennis.rb": {
         "lines": [
           1,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
           1,
           1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1582217037
+    "timestamp": 1582218347
   }
 }
