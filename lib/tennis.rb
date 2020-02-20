@@ -7,6 +7,8 @@ class Tennis
     @score_one = 'Fifteen'
     @score_two = 'Thirty'
     @score_three = 'Fourty'
+    @score_four = 'Player One Wins!!'
+    @score_deuce = 'Deuce!!'
   end
 
   def score
@@ -26,6 +28,10 @@ class Tennis
   end
 
   def score_four
-    'Player One Wins!!'
+    "#{@score_four}"
+  end
+
+  def score_deuce
+    "#{@score_deuce}"
   end
 end
