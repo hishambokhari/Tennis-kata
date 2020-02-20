@@ -28,10 +28,10 @@ class Tennis
   end
 
   def score_four
-    "#{@score_four}"
+    @score_four.to_s
   end
 
   def score_deuce
-    "#{@score_deuce}"
+    @score_deuce.to_s
   end
 end
