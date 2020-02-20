@@ -3,10 +3,16 @@
     "coverage": {
       "/Tennis-kata/spec/tennis_spec.rb": {
         "lines": [
+          null,
+          null,
           1,
           null,
           1,
           1,
+          1,
+          1,
+          null,
+          null,
           1,
           1,
           null,
@@ -24,31 +30,36 @@
       },
       "/Tennis-kata/lib/tennis.rb": {
         "lines": [
-          1,
           null,
-          1,
-          3,
-          3,
-          3,
           null,
           null,
           1,
           1,
-          null,
-          null,
-          1,
-          1,
+          4,
+          4,
+          4,
+          4,
           null,
           null,
           1,
           1,
           null,
           null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
           null,
           null
         ]
       }
     },
-    "timestamp": 1582218672
+    "timestamp": 1582219572
   }
 }

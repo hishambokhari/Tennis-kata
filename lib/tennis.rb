@@ -6,6 +6,7 @@ class Tennis
     @score = 'Love'
     @score_one = 'Fifteen'
     @score_two = 'Thirty'
+    @score_three = 'Fourty'
   end
 
   def score
@@ -18,5 +19,9 @@ class Tennis
 
   def score_two
     "#{@score_two}-Love"
+  end
+
+  def score_three
+    "#{@score_three}-Love"
   end
 end
