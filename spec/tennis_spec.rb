@@ -9,5 +9,9 @@ describe Tennis do
     it 'player one scores a point' do
       expect(subject.score_one).to eq('Fifteen-Love')
     end
+
+    it 'player one scores two points' do
+      expect(subject.score_two).to eq('Thirty-Love')
+    end
   end
 end

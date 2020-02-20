@@ -3,16 +3,20 @@ class Tennis
   def initialize
     @score = 'Love'
     @score_one = 'Fifteen'
-  end
-
-  def score_one
-    "#{@score_one}-Love"
+    @score_two = 'Thirty'
   end
 
   def score
       "#{@score}-Love"
   end
 
+  def score_one
+    "#{@score_one}-Love"
+  end
+
+  def score_two
+    "#{@score_two}-Love"
+  end
  
   
 end
