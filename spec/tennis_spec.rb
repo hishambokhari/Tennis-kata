@@ -1,9 +1,11 @@
+# frozen_string_literal: true
+
 require 'tennis'
 
 describe Tennis do
   describe '#score' do
     it 'can score a new game where no player has scored yet' do
-    expect(subject.score).to eq('Love-Love')
+      expect(subject.score).to eq('Love-Love')
     end
 
     it 'player one scores a point' do

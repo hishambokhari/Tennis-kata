@@ -1,5 +1,5 @@
 require 'simplecov'
-SimpleCov.start 
+SimpleCov.start
 # frozen_string_literal: true
 
 RSpec.configure do |config|

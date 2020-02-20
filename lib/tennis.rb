@@ -1,5 +1,7 @@
-class Tennis
+# frozen_string_literal: true
 
+# class document comment
+class Tennis
   def initialize
     @score = 'Love'
     @score_one = 'Fifteen'
@@ -7,7 +9,7 @@ class Tennis
   end
 
   def score
-      "#{@score}-Love"
+    "#{@score}-Love"
   end
 
   def score_one
@@ -17,6 +19,4 @@ class Tennis
   def score_two
     "#{@score_two}-Love"
   end
- 
-  
 end
