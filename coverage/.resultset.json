@@ -9,18 +9,23 @@
           1,
           1,
           null,
+          1,
+          null,
+          1,
+          null,
           null
         ]
       },
       "/Users/hishambokhari/Tennis-kata/lib/tennis.rb": {
         "lines": [
-          null,
+          1,
+          1,
           1,
           null,
           null
         ]
       }
     },
-    "timestamp": 1594203012
+    "timestamp": 1594203184
   }
 }
