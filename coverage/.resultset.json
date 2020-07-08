@@ -1,66 +1,26 @@
 {
   "RSpec": {
     "coverage": {
-      "/Tennis-kata/spec/tennis_spec.rb": {
+      "/Users/hishambokhari/Tennis-kata/spec/tennis_spec.rb": {
         "lines": [
-          null,
-          null,
           1,
           null,
           1,
           1,
           1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
           null,
           null
         ]
       },
-      "/Tennis-kata/lib/tennis.rb": {
+      "/Users/hishambokhari/Tennis-kata/lib/tennis.rb": {
         "lines": [
           null,
-          null,
-          null,
           1,
-          1,
-          null,
-          1,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
           null,
           null
         ]
       }
     },
-    "timestamp": 1582222870
+    "timestamp": 1594203012
   }
 }
